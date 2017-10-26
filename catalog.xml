@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/GoogleDrive/EPSI%20Montpellier%202017/Web%20Service/Code%20Java/Milou/Files/chien.xsd" uri="xml-resources/jaxb/milou/chien.xsd"/>
+</catalog>
